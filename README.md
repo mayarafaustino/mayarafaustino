@@ -1,6 +1,7 @@
-### Olá
-- 🔭 Atualmente, estou trabalhando em melhorar esse readme (Bem atualmente mesmo. Tipo, agora. Se você atualizar a página talvez isso não esteja aqui...)
-- 🌱 Atualmente estou estudando javascript
+### Olá, tudo bem? Bem também.
+<p>🔭 Atualmente, estou trabalhando em melhorar esse readme (Bem atualmente mesmo. Tipo agora. Se você atualizar a página talvez isso não esteja aqui...)</p>
+<p>🌱 Ando estudando principalmente javascript e css. Nos repositórios estão os pequenos (ou não tão pequenos) projetos que desenvolvo enquanto aprendo. Fique à vontade para dar um feedback ;)</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafaustino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
