@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá
+- 🔭 Atualmente, estou trabalhando em melhorar esse readme (Bem atualmente mesmo. Tipo, agora. Se você atualizar a página talvez isso não esteja aqui...)
+- 🌱 Atualmente estou estudando javascript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafaustino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **mayarafaustino/mayarafaustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
