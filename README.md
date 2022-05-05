@@ -3,7 +3,7 @@
 <p>🌱 Ando estudando principalmente javascript e css. Nos repositórios estão os pequenos (ou não tão pequenos) projetos que desenvolvo enquanto aprendo. Fique à vontade para dar um feedback ;)</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafaustino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafaustino&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
