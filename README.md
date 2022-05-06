@@ -1,5 +1,11 @@
-### Olá, tudo bem? Bem também.
-<p>🔭 Atualmente, estou trabalhando em melhorar esse readme (Bem atualmente mesmo. Tipo agora. Se você atualizar a página talvez isso não esteja aqui...)</p>
+## Olá, tudo bem? Meu nome é Mayara. Prazer.  👋
+
+<div>
+  <a href="https://www.linkedin.com/in/mayarafaustinovieira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><\a>
+</div>
+
+<br>
+<p>🔭 Atualmente, estou trabalhando em melhorar esse readme (Bem atualmente mesmo. Tipo agora. Se você atualizar a página talvez isso não esteja aqui...)🙃</p>
 <p>🌱 Ando estudando principalmente javascript e css. Nos repositórios estão os pequenos (ou não tão pequenos) projetos que desenvolvo enquanto aprendo. Fique à vontade para dar um feedback ;)</p>
 
 
