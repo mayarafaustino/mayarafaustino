@@ -1,11 +1,12 @@
 ## Olá, tudo bem? Meu nome é Mayara. Prazer.  👋
 
 <div>
-<a href="https://www.linkedin.com/in/mayarafaustinovieira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mayarafaustinovieira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.behance.net/mayarafvieira" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
 <br>
-<p>🔭 Atualmente, estou trabalhando em melhorar esse readme (Bem atualmente mesmo. Tipo agora. Se você atualizar a página talvez isso não esteja aqui...)🙃</p>
+<br>
 <p>🌱 Ando estudando principalmente javascript e css. Nos repositórios estão os pequenos (ou não tão pequenos) projetos que desenvolvo enquanto aprendo. Fique à vontade para dar um feedback ;)</p>
 
 
