@@ -1,14 +1,14 @@
-## Olá, tudo bem? Meu nome é Mayara. Prazer.  👋
+## Olá, tudo bem? Meu nome é Mayara. 👋
 
 <div>
   <a href="https://www.linkedin.com/in/mayarafaustinovieira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.behance.net/mayarafvieira" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
 <br>
 <br>
-<p>🌱 No momento estou me aprofundando em javascript e css. Nos repositórios estão alguns pequenos (ou não tão pequenos) projetos que desenvolvo enquanto aprendo. Fique à vontade para dar um feedback ;)</p>
-
+<p>:coffee: Confortável com: HTML5, CSS3, JavaScript;<br>
+🌱 Aprendendo: TypeScript, React;</p>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafaustino&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
