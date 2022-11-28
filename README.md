@@ -7,7 +7,7 @@
 <br>
 <br>
 <p>:coffee: Confortável com: HTML5, CSS3, JavaScript;<br>
-🌱 Aprendendo: TypeScript, React;</p>
+🌱 Aprendendo: Java;</p>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarafaustino&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
